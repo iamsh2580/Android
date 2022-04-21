@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- activity_main.xml -->
+    <string name="tvMsg_text">안드로이드 명강사 박승현</string>
+    <string name="edt_hint">입력해주세요</string>
+    <string name="btnChange_text">텍스트변경</string>
+    <string name="btnBgChange_text">배경색변경💋</string>
+
+    <!-- activity_main.xml -->
+    <string name="R_btn">빨강</string>
+    <string name="G_btn">초록</string>
+    <string name="B_btn">블루</string>
+
+    <!---->
+
+</resources>
