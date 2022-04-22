@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ex0407도망자</string>
+
+
+    <!--1-->
+    <string name="button">증가</string>
+    <string name="button2">감소</string>
+    <string name="num">0</string>
+
+    <!--사칙연산-->
+    <string name="add">덧셈</string>
+    <string name="minus">뺄셈</string>
+    <string name="mul">곱셈</string>
+    <string name="div">나눗셈</string>
+
+    <!--activity_main3.xml-->
+    <string name="btnChange_text">감추기</string>
+
+    <!--activity_main4.xml-->
+    <string name="btnPre_text">이전</string>
+    <string name="btnNext_text">다음</string>
+
+    <!--aCTIVITY5-->
+    <string name="dice_logo">DICE</string>
+    <string name="bar">:</string>
+    <string name="button1">SHAKE</string>
+
+</resources>
