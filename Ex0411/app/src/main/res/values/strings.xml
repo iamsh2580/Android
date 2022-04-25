@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ex0411</string>
+
+    <!--constraint_02.xml-->
+    <string name="title_label">카카오(kakao)</string>
+    <string name="desc_label">\"Connect Everything\" 새로운 연결, 더 나은 세상<br/></string>
+    <string name="vision_label">비전</string>
+    <string name="vision_desc_label">카카오는 새로운 연결을 통해 더 편리하고 즐거운 세상을 꿈꿉니다.사람과 사람, 사람과 사물을 한층 더 가깝게 연결함으로써 세상을 어제보다 더 나은 곳으로 만들기 위해노력하고 있습니다.</string>
+
+
+    <!--contstratin_03.xml-->
+    <string name="spread_label">spread</string>
+    <string name="spread_inside_label">spread-inside</string>
+    <string name="weighted_label">weighted</string>
+    <string name="packed_label">packed</string>
+
+
+    <!--KAKAO-->
+    <string name="pw_msg_label">지문을 사용하거나 비밀번호를 입력하세요.</string>
+    <string name="pw_text">●</string>
+
+    <!--kakao main-->
+    <string name="check">모바일에서 카카오 계정을 확인할 수 있습니다.</string>
+    <string name="email">이메일</string>
+    <string name="pw">비밀번호</string>
+
+    <!--activitykakaoLogin-->
+    <string name="tvSecond_label">second화면</string>
+    <string name="btnSecond_text">First로 이동</string>
+
+</resources>
