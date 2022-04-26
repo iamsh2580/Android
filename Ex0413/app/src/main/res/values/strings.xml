@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ex0413</string>
+
+
+    <!--main2-->
+    <string name="btnWeb">웹 페이지 보기</string>
+    <string name="btnCamera">카메라 호출</string>
+    <string name="btnDial">전화화면 띄우기</string>
+    <string name="btnCall">전화걸기</string>
+
+
+    <!--first-->
+    <string name="tvFirst_label">First화면</string>
+    <string name="btnFirst_text">second로 이동</string>
+    <string name="btnFirst_text2">Third로 이동</string>
+    <string name="btnCapture_text">사진찍기/</string>
+
+    <!--second-->
+    <string name="tvSecond_label">second화면</string>
+    <string name="btnSecond_text">First로 이동</string>
+
+    <!--third-->
+    <string name="btnThird">First로 이동</string>
+
+</resources>
