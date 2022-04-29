@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex0425Firebase</string>
+
+
+    <!--activity_login-->
+    <string name="title">BUDDLE TALK</string>
+    <string name="btnLogin">LOGIN</string>
+
+
+</resources>
