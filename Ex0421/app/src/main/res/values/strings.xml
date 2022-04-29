@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ex0421</string>
+
+    <!--LoginActivity-->
+    <string name="login">Login</string>
+    <string name="edtId">ID입력</string>
+    <string name="edtPw">PW입력</string>
+    <string name="loginBtn">로그인</string>
+    <string name="signBtn">회원가입</string>
+
+    <!--JoinActivity-->
+    <string name="regId">가입할 ID입력</string>
+    <string name="regNick">NICK 입력</string>
+    <string name="regPw">PW 입력</string>
+    <string name="regBtn">가입등록</string>
+
+</resources>
