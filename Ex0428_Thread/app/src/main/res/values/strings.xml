@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ex0428_Thread</string>
+
+    <!--Activity_main.xml-->
+    <string name="btnStart_text">시작</string>
+
+    <!--mole.xml-->
+    <string name="title_text">⛏채더지 잡기 게임⛏</string>
+    <string name="time">남은 시간</string>
+    <string name="tvTime_text">30</string>
+    <string name="tvCount_text">0</string>
+    <string name="count">잡은 개수</string>
+</resources>
